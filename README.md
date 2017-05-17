@@ -21,5 +21,4 @@ Text Classification: (15 labels as intents)
 5. XGBoost algo applied on the data for prediction. Here any algo can be used from tensorflow
 
 Coming up:
-1. Techgig ML code for redemption prediction
-2. Sentiment Analysis using Text Blob, Corenlp, NLTK. Algorithm used BoW (Gensim) and deep learning (Tensorflow)
+1. Sentiment Analysis using Text Blob, Corenlp, NLTK. Algorithm used BoW (Gensim) and deep learning (Tensorflow)
